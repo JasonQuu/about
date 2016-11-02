@@ -1,0 +1,27 @@
+.header {
+	display: block;
+	width: 100%;
+	float: right;
+	text-align: right;
+	margin-bottom: 20px;
+	margin-right : 20px;
+	min-width: 340px;
+}
+
+.content {
+	max-width: 750px;
+	min-width: 340px;
+	display: block;
+	margin: auto;
+}
+
+.text-float-right {
+	float: right
+}
+
+.text-sub-header {
+	color: #808080;
+	display: block;
+	font-size: 1.20em;
+	font-weight: bold;
+}
